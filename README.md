@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/932e8341-6c2b-4acd-8970-eaf7ea144e62)## Hiya Github, I'm Nostalgia Ninja!
+## Hiya Github, I'm Nostalgia Ninja!
 
 I'm a software Engineer and 3D Artist using Blender.
 
