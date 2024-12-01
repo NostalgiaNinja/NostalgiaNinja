@@ -13,7 +13,7 @@ What I know
 
 Pleased to meet you!
 
-![Photo of Nostalgia Ninja](https://nostalgianinja.com/res/NostalgiaNinja-Photo.webp)
+<!-- ![Photo of Nostalgia Ninja](https://nostalgianinja.com/res/NostalgiaNinja-Photo.webp) -->
 
 <!--
 **NostalgiaNinja/NostalgiaNinja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
